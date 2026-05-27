@@ -1,4 +1,4 @@
 {
-  "apiPath":"https://ph-test.metertrust.com",
-  "h5Path":" https://test-app-a08.cashtwig.net"
+  "apiPath":"https://api.credfinmetric.com",
+  "h5Path":"https://h5.credfinmetric.com"
 }
